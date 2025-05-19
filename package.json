@@ -11,8 +11,15 @@
   "type": "commonjs",
   "description": "",
   "devDependencies": {
+    "@eslint/js": "^9.27.0",
+    "@types/express": "^5.0.2",
     "@types/node": "^22.15.18",
+    "eslint": "^9.27.0",
     "tsx": "^4.19.4",
-    "typescript": "^5.8.3"
+    "typescript": "^5.8.3",
+    "typescript-eslint": "^8.32.1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
   }
 }
